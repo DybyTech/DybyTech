@@ -1,6 +1,4 @@
 
-
-//  SUBZERO SC BY MR FRANK
 ![logo](https://github.com/DybyTech/MEGALODON-MD-OWN/blob/main/GitHub%20Banner.png)
 <h1 align="center">HEY 👋🏻, I'M DybyTech </h1>
 <h3 align="center">A passionate Software Engineer from pak</h3>
